@@ -1,19 +1,21 @@
 # About ME 💬
-I am Eduard Fuchs, people call me Edward, currently I have a bachelor's degree in Fundamental Informatics and Information Technologies, studied at the Moscow Aviation Institute (MAI). I am a technical enthusiast and an open source advocate. I am always open for cooperation in projects and innovative / breakthrough ideas. Find out more about me and feel free to contact me here:
+I am Eduard Fuchs, people call me Edward, currently I have a bachelor's degree in Fundamental Informatics and Information Technologies, studied at the Moscow Aviation Institute (MAI). I am a technical enthusiast and an open source advocate. I am always open for cooperation in projects and innovative / breakthrough ideas.
+
+## Contact Me
 - EdwardFuchs@mail.ru
 
 ## Technologies
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C#](https://img.shields.io/badge/-C%23-00599C?style=flat-square&logo=c-sharp)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python)
+![C#](https://img.shields.io/badge/-C%23-181717?style=flat-square&logo=c-sharp)
+![Java](https://img.shields.io/badge/-java-181717?style=flat-square&logo=java)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-181717?style=flat-square&logo=google-colab)
+![C++](https://img.shields.io/badge/-C++-181717?style=flat-square&logo=c)
+![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Heroku](https://img.shields.io/badge/-Heroku-181717?style=flat-square&logo=heroku)
 
 # About My GitHub
 ## Main repositories
