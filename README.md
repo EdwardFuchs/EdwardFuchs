@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/EdwardFuchs/EdwardFuchs/master/intro.gif"/>
+
 # About ME 💬
 I am Eduard Fuchs, people call me Edward, currently I have a bachelor's degree in Fundamental Informatics and Information Technologies, studied at the Moscow Aviation Institute (MAI). I am a technical enthusiast and an open source advocate. I am always open for cooperation in projects and innovative / breakthrough ideas.
 
