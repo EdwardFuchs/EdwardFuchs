@@ -5,7 +5,7 @@ I am Eduard Fuchs, people call me Edward, currently I have a bachelor's degree i
 
 ## Contact Me
 [![Vk](https://img.shields.io/badge/Click%20for-VK-blue)](https://vk.com/edwardfuchs)
-[![mail](https://img.shields.io/badge/Mail-EdwardFuchs@mail.ru-blue)]
+![mail](https://img.shields.io/badge/Mail-EdwardFuchs@mail.ru-blue)
 
 ## Technologies
 ![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python)
