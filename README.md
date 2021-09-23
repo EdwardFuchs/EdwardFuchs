@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/EdwardFuchs/EdwardFuchs/main/logo.svg" width="850px"/>
+<img src="https://raw.githubusercontent.com/EdwardFuchs/EdwardFuchs/main/logo.svg" width="840px"/>
 
 # About ME 💬
 I am Eduard Fuchs, people call me Edward, currently I have a bachelor's degree in Fundamental Informatics and Information Technologies, studied at the Moscow Aviation Institute (MAI). I am a technical enthusiast and an open source advocate. I am always open for cooperation in projects and innovative / breakthrough ideas.
@@ -28,7 +28,7 @@ I am Eduard Fuchs, people call me Edward, currently I have a bachelor's degree i
 
 ## Information about my GitHub
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=EdwardFuchs&show_icons=true&theme=github_dark&count_private=true&hide=contribs,prs" height="128px" width="425px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardFuchs&hide=javascript,html,css&theme=github_dark&layout=compact" height="128px" width="425px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EdwardFuchs&show_icons=true&theme=github_dark&count_private=true&hide=contribs,prs" height="128px" width="420px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardFuchs&hide=javascript,html,css&theme=github_dark&layout=compact" height="128px" width="420px"/>
 </p>
 
