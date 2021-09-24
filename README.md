@@ -22,12 +22,12 @@ I am Eduard Fuchs, people call me Edward, currently I have a bachelor's degree i
 ![Heroku](https://img.shields.io/badge/-Heroku-181717?style=flat-square&logo=heroku)
 
 # About My GitHub
-## Main repositories
+### Main repositories
 <p>
   <a href="https://github.com/EdwardFuchs/MeguminExplosionCore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EdwardFuchs&repo=MeguminExplosionCore&theme=github_dark" height="128px"/></a>
 </p>
 
-## Information about my GitHub
+### Information about my GitHub
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=EdwardFuchs&show_icons=true&theme=github_dark&count_private=true&hide=contribs,prs" height="128px" width="420px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardFuchs&hide=javascript,html,css&theme=github_dark&layout=compact" height="128px" width="420px"/>
